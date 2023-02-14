@@ -6,6 +6,7 @@
 *.swp
 
 ## Xcode build files
+*.xcodeproj
 DerivedData/
 build/
 
